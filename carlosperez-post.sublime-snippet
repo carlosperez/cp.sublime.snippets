@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+/*
+Title: $1
+Description: $2
+Author: Carlos Perez
+Date: ${3:year}/${4:month}/${5:date}
+Layout: post
+*/
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cpp</tabTrigger>
+</snippet>
